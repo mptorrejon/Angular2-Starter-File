@@ -3,7 +3,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1 ",
-    "ts": "typings install",
+    "ts": "typings install"
   },
   "author": "Mauricio T.",
   "license": "MIT",
